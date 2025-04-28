@@ -1,3 +1,4 @@
+#Hola
 def verificarVarilla(varilla):
     """
     Funcionamiento:
