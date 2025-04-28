@@ -100,7 +100,7 @@ def obtenerSecuenciaES(pnumero):
         print("El valor debe ser entero o flotante.")
     return ""
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
+#hsdfgshdgkfsgkfg
 #Código principal
 #Reto 1: Extraer par o impar según se indica.
 print("\n Reto 1: Extraer par o impar según se indica.")
